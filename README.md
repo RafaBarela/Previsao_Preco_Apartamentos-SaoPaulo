@@ -34,4 +34,10 @@ Esses resultados indicam uma boa capacidade de generalização do modelo para no
 - Streamlit
 - Matplotlib / Seaborn
 
-## Interface Streamlit  
+## Exemplo de Predição vs Valor Real do Imóvel 
+
+### Predição
+![Image](https://github.com/user-attachments/assets/6b5b4f39-e9d1-4e88-9cfb-a3ed87497f45)
+
+### Valor Real
+![Image](https://github.com/user-attachments/assets/269394ff-c749-4aea-b781-79a5e9340283)
